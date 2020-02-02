@@ -1,4 +1,4 @@
-# APA102 Led tester - test your led strip
+# APA102 LED strip tester - test your led strip
 
 This is very simple project to test APA102 led strip functionality before you use it in production. To test functionality I'm using small and cheap [ATINNY85 mini arduino board](https://www.amazon.com/ATTINY85-Mini-Development-Board-Arduino/dp/B010B1SR5W).
 
